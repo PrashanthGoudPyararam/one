@@ -205,3 +205,50 @@
     <script src="script.js"></script>
 </body>
 </html>
+<!-- In the Electronics section -->
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Smartphone">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Laptop">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Headphones">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<!-- In the Clothing section -->
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Men's T-Shirt">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Women's Dress">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1600269452121-4f2416e55c28?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Running Shoes">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<!-- In the Home & Kitchen section -->
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1556910639-8a5d5b4a00b1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Blender">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Throw Pillow">
+    <!-- rest of the product card remains the same -->
+</div>
+
+<div class="product-card">
+    <img src="https://images.unsplash.com/photo-1583778176476-4a8b02a64c01?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Cookware Set">
+    <!-- rest of the product card remains the same -->
+</div>
